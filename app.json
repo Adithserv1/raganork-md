@@ -41,7 +41,7 @@
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ"
+            "value":"ᗪa̶гke͢᥊e🔮"
         },
         "CHATBOT": {
             "description": "AI chatbot",
@@ -51,7 +51,7 @@
         "BOT_NAME": {
             "description": "Name of AI chatbot",
             "required": true,
-            "value":"•DARKEXE BOT•"
+            "value":"彡 𝘿𝙖𝙧𝙠𝙚𝙭𝙚𝙗𝙤𝙩 彡"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
